@@ -2,7 +2,7 @@
 
 I'm Alexei, a Web Developer with a focus on front-end JavaScript, VueJS and the Jamstack. I create amazing websites and web apps to make the internet a better place.
 
-The focus on the frameworks VueJS, Hugo, Next.js, Node.
+The focus on the frameworks VueJS, Hugo, Node.
 
 You will find my projects here. Welcome!
 
@@ -16,5 +16,3 @@ You will find my projects here. Welcome!
   <a href="https://t.me/alexsoin">telegram</a> •
   <a href="https://vk.com/alexsoin">vk</a> 
 </p>
-
------
