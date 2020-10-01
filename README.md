@@ -10,9 +10,11 @@ You will find my projects here. Welcome!
 
 <p align="center">
   <strong>More from me:</strong> 
+</p>
+<p align="center">
   <a href="https://zencod.ru">website</a> •
-  <a href="https://t.me/alexsoin">telegram</a>
-  <a href="https://vk.com/alexsoin">vk</a> •
+  <a href="https://t.me/alexsoin">telegram</a> •
+  <a href="https://vk.com/alexsoin">vk</a> 
 </p>
 
 -----
