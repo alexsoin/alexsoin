@@ -19,10 +19,10 @@ You will find my projects here. Welcome!
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alexsoin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsoin&show_icons=true&theme=graywhite&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsoin&hide=html&hide_border=true&theme=graywhite" />
 </a>
 <a href="https://github.com/alexsoin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsoin&hide=html&hide_border=true&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsoin&show_icons=true&theme=graywhite&hide_border=true" />
 </a>
 
 ## More from me
