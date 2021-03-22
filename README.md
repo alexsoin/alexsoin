@@ -9,12 +9,17 @@ The focus on the frameworks VueJS, Hugo, Node.
 You will find my projects here. Welcome!
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu)
+![](https://img.shields.io/badge/Shell-fish-informational?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![](https://img.shields.io/badge/Editor-Web_Storm-informational?style=for-the-badge&logo=webstorm)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code)
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-electron-informational?style=for-the-badge&logo=electron&logoColor=white)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js)
+![](https://img.shields.io/badge/Code-Nuxt-informational?style=for-the-badge&logo=nuxt.js)
 
 ## &#x1f4c8; GitHub Stats
 
