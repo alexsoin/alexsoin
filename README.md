@@ -16,10 +16,16 @@ You will find my projects here. Welcome!
 ![](https://img.shields.io/badge/Editor-Web_Storm-informational?style=for-the-badge&logo=webstorm)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code)
 
+![](https://img.shields.io/badge/Code-php-informational?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/Code-node.js-informational?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/Code-electron-informational?style=for-the-badge&logo=electron&logoColor=white)
+![](https://img.shields.io/badge/Code-react-informational?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=for-the-badge&logo=nuxt.js)
+
+![](https://img.shields.io/badge/cms-modx-informational?style=for-the-badge&logo=modx)
+![](https://img.shields.io/badge/cms-bitrix-informational?style=for-the-badge&logo=bitrix)
 
 ## &#x1f4c8; GitHub Stats
 
