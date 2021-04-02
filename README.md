@@ -10,7 +10,7 @@ You will find my projects here. Welcome!
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu)
+![](https://img.shields.io/badge/OS-Linux_Mint-informational?style=for-the-badge&logo=linux-mint)
 ![](https://img.shields.io/badge/Shell-fish-informational?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![](https://img.shields.io/badge/Editor-Web_Storm-informational?style=for-the-badge&logo=webstorm)
