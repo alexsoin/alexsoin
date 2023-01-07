@@ -1,5 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/alexsoin)
-[![Alex Soin - Web Developer](bg.png)](https://zencod.ru/)
 
 I'm Alexei, a Web Developer with a focus on front-end JavaScript, VueJS.
 
