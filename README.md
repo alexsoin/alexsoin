@@ -21,8 +21,6 @@ You can find my projects, collaborations, and contributions here.
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=alexsoin&theme=vue-dark&langs_count=10&card_width=540&layout=compact&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api?username=alexsoin&show_icons=true&theme=vue-dark&hide_border=true&card_width=540)
 
 ----
